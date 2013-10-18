@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">TestApp</string>
+  <string name="text1">バージョンコード</string>
+  <string name="button1">Gingerbread</string>
+  <string name="button2">Honeycomb</string>
+  <string name="button3">Ice Cream Sandwich</string>
+  <string name="detail">Detail</string>
+  <string name="menu_settings">Settings</string>
+  <string name="title_activity_main">メイン</string>
+  <string name="title_activity_detail">詳細</string>
+
+</resources>
